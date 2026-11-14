@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+; This registry file adds Files organizer to the startup programs for the current user.
+; 
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\OrganizeFiles]
+@="Organize Files"
+"Icon"="C:\Program Files (x86)\File Organizer\File organizer.exe",0"
+
+[HKEY_CLASSES_ROOT\Directory\shell\OrganizeFiles\command]
+@="C:\Program Files (x86)\File Organizer\File organizer.exe" "%1"
