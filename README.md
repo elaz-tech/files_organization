@@ -37,7 +37,7 @@ The application automatically organizes files into the following categories:
 1. Clone the repository or download the source code:
 
    ```bash
-   git clone https://github.com/eaf-microservice/files_organization.git
+   git clone https://github.com/elaz-tech/files_organization.git
    cd files_organization
    ```
 
@@ -146,10 +146,9 @@ See `requirements.txt` for the complete list of dependencies.
 
 ## 👨‍💻 Author
 
-**Fouad El Azbi**
+**Elaz**
 
-- **Company**: EAF microservices
-- **Email**: EAF.microservice@gmail.com
+- **Company**: EAF
 
 ## 📄 Version
 
@@ -164,11 +163,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-## 🙏 Acknowledgments
-
-- Built with [PyQt6](https://www.riverbankcomputing.com/software/pyqt/)
-- Python standard library modules: `os`, `shutil`
 
 ---
 
